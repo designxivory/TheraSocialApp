@@ -1,0 +1,45 @@
+#LandingTitle{
+    color: white;
+    font-family: montserrat;
+    font-size: 90px; 
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+
+}
+#siteDescriptionDiv{
+    color: rgb(216, 216, 216);
+    font-family: montserrat;
+    position: relative;
+    left: 300px;
+    top: 50px;
+    width: 800px;
+    height:200px;
+    text-align: center;
+    border: 1px;
+    border-style: double;
+    border-color: grey;
+    font-size: 20px;
+    vertical-align: center;
+    align-content: center;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#siteDescriptionText{
+    position: relative;
+    vertical-align: center;
+    margin-top: 60px;
+}
+
+#signupDiv{
+    position: relative;
+    left: 450px;
+    top: 50px;
+    width: 500px;
+    height:100px;
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(216, 216, 216);
+    
+}
